@@ -1,7 +1,8 @@
 PWA_Sample
 ====
-ソース
+##Source
 https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/?hl=ja
+##Source
 http://g.co/codelabs/pwa
 ## Description
 
